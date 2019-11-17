@@ -1,1 +1,0 @@
-# model_mars_rover
